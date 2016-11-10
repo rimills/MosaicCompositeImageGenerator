@@ -12,8 +12,8 @@ function tester()
     end
 
     function sim()
-        first_image = 'Image\own_tests\green.jpg';
-        second_image = 'Image\own_tests\green.jpg';
+        first_image = 'Image\own_tests\black.bmp';
+        second_image = 'Image\own_tests\white.bmp';
         
         similarity(first_image, second_image);
     end
