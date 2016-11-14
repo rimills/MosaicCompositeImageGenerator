@@ -20,7 +20,7 @@ function tester()
     end
 
     function directorySim()
-        test_image_directory = 'Image\manmade_training\out_manmade_1k\';
+        test_image_directory = 'Image\training\';
         test_image = 'Image\manmade_training\out_manmade_1k\sun_dkhwsufafwcvddaa.jpg';
         most_close = 755;
         most_close_image = '';
